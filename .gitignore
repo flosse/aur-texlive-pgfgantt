@@ -2,3 +2,5 @@
 src/
 pgfgantt.zip
 pkg/
+texlive-pgfgantt-*.pkg.tar.xz
+texlive-pgfgantt-*.src.tar.gz
