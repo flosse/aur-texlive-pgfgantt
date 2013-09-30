@@ -7,4 +7,13 @@ on [ArchLinux](https://www.archlinux.org/) via
 
 # Install
 
+## from source
+
+    git clone https://github.com/flosse/aur-texlive-pgfgantt.git
+    cd aur-texlive-pgfgantt
+    makepkg
+    pacman -U texlive-pgfgantt-X.Y-Z-any.pkg.tar.xz
+
+## with yaourt
+
     yaourt -S texlive-pgfgantt
